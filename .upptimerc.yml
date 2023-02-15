@@ -11,8 +11,7 @@ sites:
     url: https://new.plainrock127.xyz/web
   - name: Wordpress 2
     url: https://plainrockfm.wz.cz
-  - name: Wordpress 2
-    url: https://plainrockfm.wz.cz
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
