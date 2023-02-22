@@ -4,18 +4,20 @@
     "url": "https://radio.plainrock127.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 712,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 596,
+    "timeDay": 576,
+    "timeWeek": 592,
+    "timeMonth": 596,
+    "timeYear": 596,
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "Main",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 582,
-    "timeWeek": 529,
+    "timeWeek": 535,
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2278,
     "timeDay": 2487,
-    "timeWeek": 2278,
+    "timeWeek": 2202,
     "timeMonth": 2278,
     "timeYear": 2278,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1621,
     "timeDay": 1811,
-    "timeWeek": 1621,
+    "timeWeek": 1606,
     "timeMonth": 1621,
     "timeYear": 1621,
     "dailyMinutesDown": {}
