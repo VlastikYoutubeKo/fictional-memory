@@ -4,19 +4,19 @@
     "url": "https://radio.plainrock127.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
-    "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "80.42%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
-    "time": 669,
-    "timeDay": 719,
-    "timeWeek": 845,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 1036,
+    "timeDay": 4550,
+    "timeWeek": 1787,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-03-02": 282
+      "2023-03-02": 290
     }
   },
   {
