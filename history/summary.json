@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.71%",
+    "uptimeDay": "80.42%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 669,
     "timeDay": 719,
     "timeWeek": 845,
     "timeMonth": 669,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-03-02": 2
+      "2023-03-02": 282
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://plainrock127.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrock127.xyz.ico",
     "slug": "main",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 611,
-    "timeWeek": 599,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "80.53%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 1947,
+    "timeDay": 13862,
+    "timeWeek": 3913,
+    "timeMonth": 1947,
+    "timeYear": 1947,
     "dailyMinutesDown": {
-      "2023-03-02": 0
+      "2023-03-02": 280
     }
   },
   {
