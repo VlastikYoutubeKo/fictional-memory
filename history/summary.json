@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "79.71%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptime": "97.73%",
+    "uptimeDay": "65.26%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 1036,
-    "timeDay": 4550,
-    "timeWeek": 1787,
+    "timeDay": 8381,
+    "timeWeek": 1932,
     "timeMonth": 1036,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-03-02": 292
+      "2023-03-03": 149,
+      "2023-03-02": 351
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plainrock127.xyz.ico",
     "slug": "main",
     "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "80.52%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
+    "uptime": "97.78%",
+    "uptimeDay": "66.07%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
     "time": 1947,
-    "timeDay": 13862,
-    "timeWeek": 3913,
+    "timeDay": 27112,
+    "timeWeek": 4359,
     "timeMonth": 1947,
     "timeYear": 1947,
     "dailyMinutesDown": {
-      "2023-03-02": 280
+      "2023-03-03": 149,
+      "2023-03-02": 339
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2198,
-    "timeDay": 1765,
-    "timeWeek": 2036,
-    "timeMonth": 2198,
-    "timeYear": 2198,
+    "time": 2220,
+    "timeDay": 2625,
+    "timeWeek": 2140,
+    "timeMonth": 2220,
+    "timeYear": 2220,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1636,
-    "timeDay": 1752,
-    "timeWeek": 1696,
-    "timeMonth": 1636,
-    "timeYear": 1636,
+    "time": 1633,
+    "timeDay": 1575,
+    "timeWeek": 1647,
+    "timeMonth": 1633,
+    "timeYear": 1633,
     "dailyMinutesDown": {}
   }
 ]
