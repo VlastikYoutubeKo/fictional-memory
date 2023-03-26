@@ -7,17 +7,15 @@ sites:
     url: https://radio.plainrock127.xyz
   - name: Main
     url: https://plainrock127.xyz
-  - name: Wordpress 1
-    url: https://new.plainrock127.xyz/web
-  - name: Wordpress 2
+  - name: Wordpress
     url: https://plainrockfm.wz.cz
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: mxnticek.is-not-a.dev
-  # baseUrl: /fictional-memory
+  # cname: mxnticek.is-not-a.dev
+  baseUrl: /fictional-memory
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Personal uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
