@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2023-05-30": 806,
+      "2023-05-30": 811,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -121,19 +121,19 @@
     "url": "https://plainrockfm.wz.cz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrockfm.wz.cz.ico",
     "slug": "wordpress",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1830,
-    "timeWeek": 1835,
-    "timeMonth": 1770,
-    "timeYear": 1680,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1678,
+    "timeDay": 1705,
+    "timeWeek": 1803,
+    "timeMonth": 1763,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 5
     }
   }
 ]
