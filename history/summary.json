@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.04%",
     "uptimeMonth": "89.34%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.41%",
     "time": 1540,
     "timeDay": 439,
     "timeWeek": 5489,
@@ -50,7 +50,7 @@
     "timeMonth": 0,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2023-06-13": 323,
+      "2023-06-13": 329,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -142,19 +142,19 @@
     "url": "https://plainrockfm.wz.cz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrockfm.wz.cz.ico",
     "slug": "wordpress",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1694,
-    "timeDay": 1963,
-    "timeWeek": 1793,
-    "timeMonth": 1732,
+    "timeDay": 1877,
+    "timeWeek": 1783,
+    "timeMonth": 1731,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 5
     }
   }
 ]
