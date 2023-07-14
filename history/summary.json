@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.plainrock127.xyz.ico",
     "slug": "radio",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.98%",
-    "uptimeYear": "94.74%",
+    "uptimeYear": "94.77%",
     "time": 1725,
     "timeDay": 442,
     "timeWeek": 589,
@@ -40,9 +40,9 @@
     "url": "https://plainrockfm.wz.cz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrockfm.wz.cz.ico",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 2157,
     "timeMonth": 1908,
     "timeYear": 1755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   }
 ]
