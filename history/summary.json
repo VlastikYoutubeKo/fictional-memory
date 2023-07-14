@@ -40,11 +40,11 @@
     "url": "https://plainrockfm.wz.cz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrockfm.wz.cz.ico",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1757,
     "timeDay": 1805,
@@ -52,7 +52,7 @@
     "timeMonth": 1912,
     "timeYear": 1757,
     "dailyMinutesDown": {
-      "2023-07-14": 5
+      "2023-07-14": 0
     }
   }
 ]
