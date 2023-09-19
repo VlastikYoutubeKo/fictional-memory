@@ -6,12 +6,12 @@
     "slug": "radio",
     "status": "up",
     "uptime": "93.83%",
-    "uptimeDay": "49.54%",
+    "uptimeDay": "56.12%",
     "uptimeWeek": "80.88%",
     "uptimeMonth": "81.94%",
     "uptimeYear": "93.83%",
     "time": 2035,
-    "timeDay": 10745,
+    "timeDay": 511,
     "timeWeek": 8846,
     "timeMonth": 4737,
     "timeYear": 2035,
@@ -49,7 +49,7 @@
     "url": "https://plainrockfm.wz.cz",
     "icon": "https://icons.duckduckgo.com/ip3/plainrockfm.wz.cz.ico",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +61,7 @@
     "timeMonth": 1738,
     "timeYear": 1774,
     "dailyMinutesDown": {
+      "2023-09-19": 0,
       "2023-07-29": 17,
       "2023-07-15": 16
     }
