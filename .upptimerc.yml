@@ -4,9 +4,11 @@ repo: fictional-memory # The name of this repository
 
 sites:
   - name: Radio
-    url: https://radio.plainrock127.xyz
+    url: https://radio.plainrock127.xyz/phonk
   - name: Wordpress
-    url: https://plainrockfm.wz.cz
+    url: http://plainrockfm.wz.cz
+  - name: Odjezdy.online
+    url: https://odjezdy.online
 
 
 status-website:
