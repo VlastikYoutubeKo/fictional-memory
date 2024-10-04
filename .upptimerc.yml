@@ -14,7 +14,7 @@ sites:
   - name: DelayTracker - ČD Most
     url: https://most.odjezdy.online
   - name: DelayTracker - ČD Bílina
-    url: https://bilina.plainrock127.xyz/cd
+    url: https://bilina.odjezdy.online
   - name: Domácí server 1
     url: https://amz.odjezdy.online
 
@@ -31,6 +31,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Status 2
+      href: https://status.odjezdy.online
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
