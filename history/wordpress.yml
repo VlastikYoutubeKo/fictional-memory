@@ -1,7 +1,7 @@
 url: http://plainrockfm.wz.cz
-status: up
-code: 200
-responseTime: 2723
-lastUpdated: 2025-01-21T23:06:53.946Z
+status: down
+code: 503
+responseTime: 696
+lastUpdated: 2025-01-22T14:15:19.793Z
 startTime: 2023-03-26T18:11:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
