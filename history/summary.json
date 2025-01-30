@@ -8,11 +8,11 @@
     "uptime": "81.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.34%",
+    "uptimeMonth": "42.55%",
     "uptimeYear": "68.34%",
     "time": 1271,
     "timeDay": 829,
-    "timeWeek": 771,
+    "timeWeek": 755,
     "timeMonth": 1823,
     "timeYear": 1143,
     "dailyMinutesDown": {
@@ -181,10 +181,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "88.50%",
+    "uptimeYear": "88.51%",
     "time": 1872,
     "timeDay": 2302,
-    "timeWeek": 1997,
+    "timeWeek": 2029,
     "timeMonth": 2599,
     "timeYear": 1925,
     "dailyMinutesDown": {
@@ -238,8 +238,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -282,7 +281,7 @@
     "uptimeYear": "93.88%",
     "time": 678,
     "timeDay": 489,
-    "timeWeek": 451,
+    "timeWeek": 453,
     "timeMonth": 723,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -324,14 +323,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bilina.odjezdy.online.ico",
     "slug": "delay-tracker-cd-bilina",
     "status": "up",
-    "uptime": "89.56%",
+    "uptime": "89.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.97%",
-    "uptimeYear": "89.56%",
+    "uptimeYear": "89.57%",
     "time": 839,
     "timeDay": 462,
-    "timeWeek": 427,
+    "timeWeek": 429,
     "timeMonth": 915,
     "timeYear": 839,
     "dailyMinutesDown": {
